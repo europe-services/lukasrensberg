@@ -3,4 +3,4 @@
 - 📫 How to reach me:
    - https://lukas-rensberg.de
 
-[![Lukas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasrensberg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Europe-Services GitHub stats](https://github-readme-stats.vercel.app/api?username=europe-services&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
