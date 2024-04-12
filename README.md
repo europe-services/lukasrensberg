@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lukas Rensberg
+- 👋 Hi, We're Europe-Services, a hosting company
 
-- 📫 How to reach me:
-   - https://lukas-rensberg.de
+- 📫 How to reach us:
+   - https://europe-services.de
 
 [![Europe-Services GitHub stats](https://github-readme-stats.vercel.app/api?username=europe-services&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
